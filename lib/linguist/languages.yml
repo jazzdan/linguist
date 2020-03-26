@@ -5486,6 +5486,18 @@ Thrift:
   - ".thrift"
   ace_mode: text
   language_id: 374
+Tiltfile:
+  type: programming
+  tm_scope: source.python
+  ace_mode: python
+  codemirror_mode: python
+  codemirror_mime_type: text/x-python
+  color: "#20ba31"
+  extensions:
+    - ".tilt"
+    - ".tiltfile"
+  filenames:
+    - Tiltfile
 Turing:
   type: programming
   color: "#cf142b"
